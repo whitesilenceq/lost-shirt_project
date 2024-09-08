@@ -11,5 +11,5 @@ setInterval(function() {
         index = 0;
     }
     slides[index].classList.add(activeClass);
-}, 5000)
+}, 3000)
 }());
