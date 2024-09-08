@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'AlegreyaSansSCBlack';
-    src: url('/fonts/AlegreyaSansSCBlack.woff2') format('woff2'),
-        url('/fonts/AlegreyaSansSCBlack.woff') format('woff');
+    src: url('./fonts/AlegreyaSansSCBlack.woff2') format('woff2'),
+        url('./fonts/AlegreyaSansSCBlack.woff') format('woff');
     weight: normal;
     height: normal;
 }
