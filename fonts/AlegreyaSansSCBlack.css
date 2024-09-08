@@ -2,8 +2,8 @@
     font-family: 'AlegreyaSansSCBlack';
     src: url('fonts/AlegreyaSansSCBlack.eot');
     src: url('fonts/AlegreyaSansSCBlack.eot') format('embedded-opentype'),
-         url('../fonts/AlegreyaSansSCBlack.woff2') format('woff2'),
-         url('../fonts/AlegreyaSansSCBlack.woff') format('woff'),
+         url('./fonts/AlegreyaSansSCBlack.woff2') format('woff2'),
+         url('./fonts/AlegreyaSansSCBlack.woff') format('woff'),
          url('fonts/AlegreyaSansSCBlack.ttf') format('truetype'),
          url('fonts/AlegreyaSansSCBlack.svg#AlegreyaSansSCBlack') format('svg');
 }
